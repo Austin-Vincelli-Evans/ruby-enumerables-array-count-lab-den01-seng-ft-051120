@@ -1,4 +1,4 @@
 def count_strings(array)
-  array.count do |element|
+  str.count do |element|
     
  end
