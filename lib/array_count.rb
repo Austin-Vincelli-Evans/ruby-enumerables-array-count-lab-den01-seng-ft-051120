@@ -1,3 +1,3 @@
 def count_strings(array)
-  array.count.stg
+  array.count.strg
 end
