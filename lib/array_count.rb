@@ -1,4 +1,3 @@
 def count_strings(array)
-  array.count do |element|
-  end 
+  array.count.stg
 end
